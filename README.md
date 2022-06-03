@@ -1,9 +1,6 @@
-# README
+# DMM WEBCAMPコンテンツ【アプリケーションを完成させよう】
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
+DMM WEBCAMPの学習コンテンツアプリケーションを完成させようの1章から11章で作成したものです
 
 * Ruby version
 
